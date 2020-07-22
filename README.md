@@ -1,4 +1,4 @@
-# Copy a S3 file from on bucket to other
+# Copy a S3 file from one bucket to other
 
 #### Steps to run this app
 
